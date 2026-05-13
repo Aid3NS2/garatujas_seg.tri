@@ -1,0 +1,1 @@
+# garatujas_seg.tri

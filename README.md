@@ -1,1 +1,10 @@
-# garatujas_seg.tri
+# Garatujas — Segundo Trimestre (2026)
+
+Começo de aula:
+  git pull
+Fim de aula:
+  push/commit
+
+13/05/2026
+  As últimas duas aulas (e estas duas) o professor passou uns tutoriais sobre os tokens do github e compatibilidade do vs/git/chrome,
+porém eu uso o próprio computador e não o da escola, e não precisei fazer por causa disso :thumbs_up:

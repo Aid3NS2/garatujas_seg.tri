@@ -12,3 +12,5 @@ porém eu uso o próprio computador e não o da escola, e não precisei fazer po
 14/05/2026
   Aula foi utilizada para começar uma versão melhorada da lista de afazeres que começamos a fazer com html na última aula. Teve explicações sobre core (lógica/código principal do software) e alguns detalhes a mais. Foi ensinado como usar comentários de documentação (que irão ajudar a entender para o que alguma certa coisa funciona como, caso alguém diferente vá olhar seu código); map (um loop que retorna a cópia de algo após fazer alguma coisa com a cópia);
 
+03/06/26
+  Entregamos uma atividade e começamos outra.

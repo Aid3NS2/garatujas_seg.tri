@@ -18,5 +18,3 @@ porém eu uso o próprio computador e não o da escola, e não precisei fazer po
 10/06/26
   Editar nome de variáveis: F2 (muda tudo ao mesmo tempo);
   No momento, o CSS aceita inserir os filhos no blgh. > * {}
-
-  

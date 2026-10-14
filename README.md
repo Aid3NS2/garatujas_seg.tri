@@ -23,4 +23,4 @@ porém eu uso o próprio computador e não o da escola, e não precisei fazer po
   protocolo://localização:porta/rota?querystring
 
 02/10/2026
-  <pre> indica que o que tem dentro é pra ser interpertado/depois é código
+  pre indica que o que tem dentro é pra ser interpertado/depois é código
